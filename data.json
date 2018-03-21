@@ -1,0 +1,29 @@
+{
+  "basics":{
+    "photo":"images/anji.jpg",
+    "name":"veeranjaneyulu",
+    "email":"veeranjaneyulu.k10@gmail.com",
+    "mobile":"8309159547"
+
+  },
+  "education":[
+    {
+    "course":"B-tech(Computer science and Engineering)",
+"college":[
+  "G.pullaiah college of engineeering","2015-2019","70"
+]
+},
+  {
+  "course":"Intermediate(MPC)",
+"college":[
+"C.VRaman junior college","2013-2015","95"
+]
+},
+{
+"course":"SSC",
+"college":[
+"National high school","2003-2013","88"
+]
+}
+  ]
+}
