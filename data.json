@@ -2,7 +2,7 @@
   "basics":{
     "photo":"images/anji.jpg",
     "name":"veeranjaneyulu",
-    "email":"veeranjaneyulu.k10@gmail.com",
+    "email":"anji.com",
     "mobile":"8309159547"
 
   },
@@ -25,5 +25,19 @@
 "National high school","2003-2013","88"
 ]
 }
+],
+  "skills":[
+    {
+      "name":"web technologies",
+      "value":"HTML,css"
+    },
+    {
+      "name":"operating Systems",
+      "value":"Linux,windows,android"
+    },
+    {
+      "name":"programming Languages",
+      "value":"c,c++,java"
+    }
   ]
 }
